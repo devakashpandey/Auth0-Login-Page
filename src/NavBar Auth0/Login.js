@@ -9,7 +9,7 @@ const Login = () => {
     <>
     <div className='home-div'>
     
-    <h1>THIS IS <span>LOGIN</span> SECTION</h1>
+    <h1><span>LOGIN</span> SECTION , HERE YOU LOG IN</h1>
     <h2>Login Here</h2>
     <button className='loginbtn' onClick={() => loginWithRedirect() }>LOG IN</button>
     </div>
